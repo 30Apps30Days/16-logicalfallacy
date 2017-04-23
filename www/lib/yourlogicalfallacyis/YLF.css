@@ -1,0 +1,172 @@
+@font-face {
+  font-family: 'YLF';
+  src: url("YLF.eot");
+  src: url("YLF.eot?#iefix") format("embedded-opentype"),
+       url("YLF.ttf") format("truetype"),
+       url("YLF.woff") format("woff"),
+       url("YLF.svg#YLF") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.icon-strawman,
+.icon-false-cause,
+.icon-appeal-to-emotion,
+.icon-the-fallacy-fallacy,
+.icon-slippery-slope,
+.icon-ad-hominem,
+.icon-tu-quoque,
+.icon-personal-incredulity,
+.icon-special-pleading,
+.icon-loaded-question,
+.icon-burden-of-proof,
+.icon-ambiguity,
+.icon-the-gamblers-fallacy,
+.icon-bandwagon,
+.icon-appeal-to-authority,
+.icon-composition-division,
+.icon-no-true-scotsman,
+.icon-genetic,
+.icon-black-or-white,
+.icon-begging-the-question,
+.icon-appeal-to-nature,
+.icon-anecdotal,
+.icon-the-texas-sharpshooter,
+.icon-middle-ground,
+.icon-cc,
+.icon-by,
+.icon-nc,
+.icon-down,
+.icon-prev,
+.icon-next {
+  font-family: 'YLF';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-strawman:before {
+  content: "\e600";
+}
+
+.icon-false-cause:before {
+  content: "\e601";
+}
+
+.icon-appeal-to-emotion:before {
+  content: "\e602";
+}
+
+.icon-the-fallacy-fallacy:before {
+  content: "\e603";
+}
+
+.icon-slippery-slope:before {
+  content: "\e604";
+}
+
+.icon-ad-hominem:before {
+  content: "\e605";
+}
+
+.icon-tu-quoque:before {
+  content: "\e606";
+}
+
+.icon-personal-incredulity:before {
+  content: "\e607";
+}
+
+.icon-special-pleading:before {
+  content: "\e608";
+}
+
+.icon-loaded-question:before {
+  content: "\e609";
+}
+
+.icon-burden-of-proof:before {
+  content: "\e614";
+}
+
+.icon-ambiguity:before {
+  content: "\e615";
+}
+
+.icon-the-gamblers-fallacy:before {
+  content: "\e616";
+}
+
+.icon-bandwagon:before {
+  content: "\e617";
+}
+
+.icon-appeal-to-authority:before {
+  content: "\e60a";
+}
+
+.icon-composition-division:before {
+  content: "\e60b";
+}
+
+.icon-no-true-scotsman:before {
+  content: "\e60c";
+}
+
+.icon-genetic:before {
+  content: "\e60d";
+}
+
+.icon-black-or-white:before {
+  content: "\e60e";
+}
+
+.icon-begging-the-question:before {
+  content: "\e60f";
+}
+
+.icon-appeal-to-nature:before {
+  content: "\e610";
+}
+
+.icon-anecdotal:before {
+  content: "\e611";
+}
+
+.icon-the-texas-sharpshooter:before {
+  content: "\e612";
+}
+
+.icon-middle-ground:before {
+  content: "\e613";
+}
+
+.icon-cc:before {
+  content: "\e61a";
+}
+
+.icon-by:before {
+  content: "\e619";
+}
+
+.icon-nc:before {
+  content: "\e618";
+}
+
+.icon-down:before {
+  content: "\e61b";
+}
+
+.icon-prev:before {
+  content: "\e61c";
+}
+
+.icon-next:before {
+  content: "\e61d";
+}

@@ -18,6 +18,7 @@
     <link rel="stylesheet" href="lib/material-design-lite/material.min.css" />
     <script src="lib/material-design-lite/material.min.js"></script>
     <link rel="stylesheet" href="lib/material-icons-font/icon.css" />
+    <link rel="stylesheet" href="lib/yourlogicalfallacyis/YLF.css" />
     <link rel="stylesheet" href="app/index.css" />
   </head>
   <body>
@@ -26,6 +27,7 @@
         <span class="mdl-layout-title">Logical Fallacy</span>
 
         <form id="options" action="#">
+          <p>Learn about logical fallacies.</p>
         </form>
 
         <footer>
@@ -36,16 +38,31 @@
             </a>
           </nav>
 
-          Idea by PLACEHOLDER<br />
+          All data from
+          <a href="yourlogicalfallacyis.com">YourLogicalFallacyIs.com</a>
+          <br />
           App by <a href="http://metaist.com">Metaist LLC</a>
         </footer>
 
       </div>
       <main class="mdl-layout__content page-content">
+        <div id="content" class="center-center">
+          <i class="slug icon-strawman"></i>
+          <div class="title">strawman</div>
+          <div class="head">You misrepresented someone's argument to make it easier to attack.</div>
+          <div class="description">
+            By exaggerating, misrepresenting, or just completely fabricating someone's argument, it's much easier to present your own position as being reasonable, but this kind of dishonesty serves to undermine honest rational&nbsp;debate.
+          </div>
+          <div class="example">
+Example: After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.
+          </div>
+        </div>
+
       </main>
     </div>
 
-    <script src="cordova.js"></script>
+    <!-- <script src="cordova.js"></script> -->
+    <script src="lib/yourlogicalfallacyis/fallacies.js"></script>
     <script src="app/index.js"></script>
   </body>
 </html>
